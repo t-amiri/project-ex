@@ -1,3 +1,4 @@
 fonts/
 *.txt
 !trackit.txt
+js/
